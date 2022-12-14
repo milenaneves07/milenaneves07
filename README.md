@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Milena</h1>
-<h3 align="center">A passionate fullstack devoloper from Brazil</h3>
+<h1 align="center">Hi, I'm Milena 👾</h1>
+<h3 align="center">Fullstack devoloper from Brazil </h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=milenaneves07&show_icons=true&title_color=fa9200&text_color=ffffff&bg_color=ffd257&hide_border=true&locale=en" alt="milenaneves07" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=milenaneves07&show_icons=true&title_color=fa9200&text_color=ffffff&bg_color=ffd257&hide_border=true&locale=en" alt="milenaneves07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milenaneves07&" alt="milenaneves07" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milenaneves07&" alt="milenaneves07" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
