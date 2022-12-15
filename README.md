@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=100&color=2684AD&center=true&multiline=true&width=435&height=80&lines=Heyo%2C+I'm+Milena!;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=100&color=2684AD&center=true&multiline=true&width=435&height=80&lines=Heyo%2C+I'm+Milena!;I'm+a+Fullstack+Developer" alt="Typing SVG" /></a>
 </div>
 
 <div>
@@ -20,20 +20,20 @@
   </p>
 </div>
 
-<div>
-  <h3 align="center">Languages and Tools:</h3>
-  <p align="center"> 
-    <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
-    <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-    <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  </p>
+<div align="center">
+  
+  <h3>Languages and Tools:</h3>
+  
+  ![Ruby](https://img.shields.io/badge/-Ruby-orange.svg?style=for-the-badge&logo=ruby&logoColor=%23F7DF1E)
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-orange.svg?style=for-the-badge&logo=rubyonrails&logoColor=%23F7DF1E)
+  ![HTML](https://img.shields.io/badge/-html-orange.svg?style=for-the-badge&logo=HTML&logoColor=%23F7DF1E)
+  ![CSS](https://img.shields.io/badge/-CSS-orange.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-orange.svg?style=for-the-badge&logo=Bootstrap&logoColor=%23F7DF1E)
+  ![SaSS](https://img.shields.io/badge/-SaSS-orange.svg?style=for-the-badge&logo=SaSS&logoColor=%23F7DF1E)
+  ![JavaScript](https://img.shields.io/badge/javascript-orange.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![Heroku](https://img.shields.io/badge/-Heroku-orange.svg?style=for-the-badge&logo=Heroku&logoColor=%23F7DF1E)
+  ![Illustrator](https://img.shields.io/badge/illustrator-orange.svg?style=for-the-badge&logo=illustrator&logoColor=%23F7DF1E)
+
 </div>
 
 <h1></h1>
