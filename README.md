@@ -12,14 +12,6 @@
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milenaneves07&" alt="milenaneves07" /></p>
 </div>
 
-<div>
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-  <a href="https://linkedin.com/in/milena-neves-domingues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milena-neves-domingues" height="30" width="40" /></a>
-  <a href="https://instagram.com/minevesd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minevesd" height="30" width="40" /></a>
-  </p>
-</div>
-
 <div align="center">
   
   <h3>Languages and Tools:</h3>
@@ -34,6 +26,14 @@
   ![Heroku](https://img.shields.io/badge/-Heroku-orange.svg?style=for-the-badge&logo=Heroku&logoColor=%23F7DF1E)
   ![Illustrator](https://img.shields.io/badge/illustrator-orange.svg?style=for-the-badge&logo=illustrator&logoColor=%23F7DF1E)
 
+</div>
+
+<div align="center">
+  <h3>Connect with me:</h3>
+  <p align="center">
+  <a href="https://linkedin.com/in/milena-neves-domingues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milena-neves-domingues" height="30" width="40" /></a>
+  <a href="https://instagram.com/minevesd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minevesd" height="30" width="40" /></a>
+  </p>
 </div>
 
 <h1></h1>
