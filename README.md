@@ -3,8 +3,8 @@
 </div>
 
 <div>
-<h1></h1>
-<h1 align="center">👾🌈😸</h1>
+	<h1></h1>
+	<h1 align="center">👾🌈😸</h1>
 </div>
 
 <div>
@@ -40,6 +40,6 @@
 
 <div align="center">
   
-![](https://github.com/milenaneves07/milenaneves07/blob/main/giphy.gif)
+	![](https://github.com/milenaneves07/milenaneves07/blob/main/giphy.gif)
   
 </div>
