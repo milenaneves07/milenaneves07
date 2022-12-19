@@ -39,7 +39,8 @@
 <h1></h1>
 
 <div align="center">
-  
-	![](https://github.com/milenaneves07/milenaneves07/blob/main/giphy.gif)
-  
+	
+![](https://github.com/milenaneves07/milenaneves07/blob/main/giphy.gif)
+
 </div>
+  
